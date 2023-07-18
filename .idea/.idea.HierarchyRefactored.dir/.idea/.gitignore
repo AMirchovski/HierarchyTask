@@ -1,0 +1,8 @@
+*.dll
+*.pdb
+.DS_Store
+*.cache
+
+HierarchyRefactored/obj/
+HierarchyRefactored/bin/
+HierarchyRefactored/.idea/
